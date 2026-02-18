@@ -10,3 +10,5 @@ Maybe fill this out, or write a poem.
 * The best superhero is ___________
 
 Do not write a haiku. They are deceptively difficult to write
+
+Also write an essay about version control.
